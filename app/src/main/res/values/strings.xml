@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Taller3Movil</string>
+    <string name="opciones">Opciones</string>
+    <string name="areas">Areas</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="vdl">Valor del lado</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="resultado">Resultado</string>
+    <string name="area">Area </string>
+    <string name="areaC">Area: Cuadrado</string>
+    <string name="areaR">Area: Rectangulo</string>
+    <string name="error_1">Por favor digite un numero</string>
+    <string name="error_2">Por favor digite una base</string>
+    <string name="error_3">Por favor digite una altura</string>
+    <string name="ok">OK</string>
+    <string name="base">Base</string>
+    <string name="altura">Altura</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="OpcRealizadas">Operaciones Realizadas</string>
+    <string-array name="opc">
+        <item> @string/areas</item>
+        <item>@string/OpcRealizadas</item>
+    </string-array>
+    <string-array name="areas2">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+    </string-array>
+    <string name="listado">Listado</string>
+    <string name="no">No.</string>
+    <string name="operacion">Operacion</string>
+    <string name="valor">Valor</string>
+</resources>
